@@ -14,7 +14,7 @@ int main()
     for(i=1;i<=n;i++)
     {
        result=fibo(i);
-       printf("%d\t",result);
+       printf("%d\t",result)
     }
     return 0;
 }
